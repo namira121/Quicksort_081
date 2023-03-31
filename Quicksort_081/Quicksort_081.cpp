@@ -61,7 +61,7 @@ void q_short(int low, int high) {
 			j--;//langkah 8
 				cmp_count++;
 		}
-		cmp_count++;
+		cmp_count++; 
 		if (i < j)// langkah 9
 			//if the greater element is on the left of the element
 		{
