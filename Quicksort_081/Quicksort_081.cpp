@@ -89,7 +89,7 @@ void display() {
 	cout << "============" << endl;
 
 	for (int i = 0;i < n;i++) {
-		cout << arr[i] << " ";
+		cout << arr[i] << " "; 
 	}
 
 	cout << "\n\nNumber of comparisons: " << cmp_count << endl;
