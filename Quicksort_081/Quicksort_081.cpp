@@ -32,7 +32,7 @@ void swap(int x, int y) {
 
 	temp = arr[x];
 	arr[x] = arr[y];
-	arr[y] = temp;
+	arr[y] = temp; 
 }
 
 void q_short(int low, int high) {
