@@ -23,7 +23,7 @@ void input() {
 
 	for (int i = 0; i < n; i++) {
 		cout << "<" << (i + 1) << ">";
-		cin >> arr[i];
+		cin >> arr[i]; 
 	}
 }
 //swap the element at index x switch the element at index y
